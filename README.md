@@ -1,9 +1,9 @@
 ## Hello, Underworld!
 
  <div>
-  <img src="https://github.com/devitruvius/profile-pictures/blob/main/devitruvius-banner.png">
+  <img height="243em" src="https://github.com/devitruvius/profile-pictures/blob/main/devitruvius-banner.png">
  </div>
- 
+ <br>
  <div>
    <a href="https://github.com/devitruvius">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devitruvius&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
