@@ -1,4 +1,4 @@
-## Hello, from the Underworld!
+## Hello, Underworld!
 
  <div>
    <a href="https://github.com/devitruvius">
