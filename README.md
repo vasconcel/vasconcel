@@ -26,6 +26,6 @@
 </div>
 <br>
 
-> *"No man can live faced with Death, knowing everything's nothingness"*<br>
-> *Ingmar Bergman, The Seventh Seal*
+> *"Words have no power to impress the mind without the exquisite horror of their reality."*<br>
+> *Edgar Allan Poe*
 
