@@ -1,7 +1,7 @@
 ## Hello, Underworld!
 
  <div>
-  <img height="250em" src="https://github.com/devitruvius/profile-pictures/blob/main/devitruvius-banner.png">
+  <img height="216em" src="https://github.com/devitruvius/profile-pictures/blob/main/devitruvius-banner-ii.png">
  </div>
  <br>
  <div>
