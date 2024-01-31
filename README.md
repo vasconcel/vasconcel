@@ -1,12 +1,12 @@
 ## Hello, Underworld!
 
  <div>
-  <img height="242em" src="https://github.com/devitruvius/profile-pictures/blob/main/devitruvius-banner.png">
+  <img height="250em" src="https://github.com/devitruvius/profile-pictures/blob/main/devitruvius-banner.png">
  </div>
  <br>
  <div>
    <a href="https://github.com/devitruvius">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devitruvius&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=devitruvius&theme=gotham&mode=weekly" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devitruvius&layout=compact&langs_count=6&theme=gotham"/>
 </div>
 
