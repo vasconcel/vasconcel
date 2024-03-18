@@ -6,9 +6,11 @@
  <br>
  <div>
    <a href="https://github.com/devitruvius">
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=devitruvius&theme=gotham&mode=weekly" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devitruvius&layout=compact&langs_count=6&theme=gotham"/>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devitruvius&theme=gotham&mode=weekly" />
+</p>
 
 ## Skills
     
