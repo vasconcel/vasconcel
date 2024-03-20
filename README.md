@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devitruvius&theme=gotham&mode=weekly" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devitruvius&show_icons=true&theme=gotham" />
 </p>
 
 ## Skills
