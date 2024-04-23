@@ -1,12 +1,4 @@
-## Hello, Underworld!
-
-<p align="center">
-  <img height="169.5em" src="https://github.com/devitruvius/profile-pictures/blob/main/devitruvius-banner.png">
-</p>
- <br>
- <div>
-   <a href="https://github.com/devitruvius">
-</div>
+## Hello there, World!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devitruvius&show_icons=true&theme=gotham" />
