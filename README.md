@@ -11,9 +11,7 @@
     <img src="https://skillicons.dev/icons?i=python,flask,godot" />
   </a>
 </p>
- 
-<br>
- 
+
 ## Contact
  
 <div> 
