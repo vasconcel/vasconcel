@@ -7,7 +7,7 @@
 ## Skills
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" src="https://skillicons.dev/icons?i=py,flask,godot">
 </div>
  
 <br>
@@ -20,6 +20,6 @@
 </div>
 <br>
 
-> *"Words have no power to impress the mind without the exquisite horror of their reality."*<br>
-> *Edgar Allan Poe*
+> *"Welcome to the real world."*<br>
+> *Morpheus, The Matrix*
 
