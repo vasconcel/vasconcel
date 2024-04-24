@@ -1,8 +1,5 @@
 ## Hello, Matrix!
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devitruvius&show_icons=true&theme=gotham" />
-</p>
+[![Devitruvius's GitHub stats](https://github-readme-stats.vercel.app/api?username=devitruvius&show_icons=true&theme=dark)](https://github.com/devitruvius/github-readme-stats)
 
 ## Skills
     
