@@ -9,15 +9,16 @@ I am a student of Systems Analysis and Development at UFCA, with a specialized f
 
 ## Skills
     
-<img src="https://img.shields.io/badge/GODOT-202020.svg?style=for-the-badge&logo=godot-engine" /> <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
+<img src="https://img.shields.io/badge/GODOT-%232C2C2C.svg?style=for-the-badge&logo=godot-engine" /> <img src="https://img.shields.io/badge/Python-%230E0E0E?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white" />
 
 ## Contact
  
 <div> 
-  <a target="_blank" href="mailto:dev.vitruvius@gmail.com"><img src="https://img.shields.io/badge/-Gmail-202020?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/devitruvius"><img src="https://img.shields.io/badge/-LinkedIn-202020?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a target="_blank" href="https://www.youtube.com/@dev.vitruvius"><img src="https://img.shields.io/badge/YouTube-202020.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+  <a target="_blank" href="mailto:dev.vitruvius@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%232C2C2C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/devitruvius"><img src="https://img.shields.io/badge/-LinkedIn-%230E0E0E?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a target="_blank" href="https://www.youtube.com/@dev.vitruvius"><img src="https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 </div>
+
 <br>
 
 > *"Welcome to the real world."*<br>
