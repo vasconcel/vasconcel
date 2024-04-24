@@ -6,9 +6,11 @@
 
 ## Skills
     
-<div style="display: inline_block"><br>
-  <img align="center" src="https://skillicons.dev/icons?i=py,flask,godot">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flask,godot" />
+  </a>
+</p>
  
 <br>
  
