@@ -3,6 +3,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devitruvius&show_icons=true&theme=dark" />
 </a>
 
+## About Me
+
+I am a student of Systems Analysis and Development at UFCA, with a specialized focus in Python and continuous deepening of knowledge in the Flask framework. I am always striving to improve my skills, whether by solving practical challenges or exploring new technologies within the Python ecosystem. In addition, I develop games using the Godot Engine.
+
 ## Skills
     
   <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" /> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
