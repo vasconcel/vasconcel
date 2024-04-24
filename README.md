@@ -5,9 +5,7 @@
 
 ## Skills
     
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,godot" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 
 ## Contact
  
