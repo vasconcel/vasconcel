@@ -1,8 +1,8 @@
 ## A Developer's Quest
-Hello, World! I am an undergraduate student in Systems Analysis and Development at UFCA (Federal University of Cariri), and I follow the principles of Software Engineering, using Python and Flask as my main tools. I firmly believe in the importance of embracing the journey of self-discovery and also contributing to a more sustainable world.
+I am a Systems Analysis and Development undergraduate at the Federal University of Cariri (UFCA) in Brazil. Leveraging Python and Flask, I approach software development with a commitment to established engineering principles. I am a strong advocate for continuous learning and its role in driving positive change in the world.
 
 ## The Way of Python
-Python provides the strategic approach and adaptability that perfectly align with my needs. Whether automating tasks or crafting functional systems and APIs, Python's extensive library ecosystem and readability, complemented by Flask's simplicity for web development, propels my growth as a developer, ensuring smoother development cycles and simplified maintenance and empowering me to tackle real-world challenges with confidence.
+Python's versatility empowers me as a developer. Its readability and vast library ecosystem make it perfect for tackling real-world challenges, from automating tasks to building functional systems and APIs. Flask's simplicity for web development further streamlines the process, ensuring smoother development cycles and easier maintenance.  This combination fuels my growth and allows me to approach any project with confidence.
 
 ## Skills
     
