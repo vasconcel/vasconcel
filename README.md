@@ -2,7 +2,7 @@
 I am a Systems Analysis and Development undergraduate at the Federal University of Cariri (UFCA) in Brazil. Leveraging Python and Flask, I approach software development with a commitment to established engineering principles. I am a strong advocate for continuous learning and its role in driving positive change in the world.
 
 ## The Way of Python
-Python's versatility empowers me as a developer. Its readability and vast library ecosystem make it perfect for tackling real-world challenges, from automating tasks to building functional systems and APIs. Flask's simplicity for web development further streamlines the process, ensuring smoother development cycles and easier maintenance.  This combination fuels my growth and allows me to approach any project with confidence.
+Python's versatility and vast ecosystem empower me to tackle real-world challenges, from automating tasks to building functional systems and APIs.
 
 ## Skills
     
