@@ -1,4 +1,4 @@
-## The Way of Python
+## Python Developer
 Python's versatility and vast ecosystem fuel my interest for tackling real-world challenges. As a Systems Analysis and Development student at UFCA (Brazil), I leverage it to automate tasks, build functional systems, and develop APIs. I'm commited into designing user-friendly and well-engineered software solutions. 
 
 ## Skills
