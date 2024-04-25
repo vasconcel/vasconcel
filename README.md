@@ -1,5 +1,5 @@
 ## Software Alchemist
-I'm a Systems Analysis and Development student at UFCG (Brazil) interested about crafting user-friendly and well-engineered software solutions. Python and Flask are my tools of choice, allowing me to tackle challenges from automating tasks to building web applications and APIs.
+I'm a Systems Analysis and Development student at UFCA (Brazil) interested about crafting user-friendly and well-engineered software solutions. Python and Flask are my tools of choice, allowing me to tackle challenges from automating tasks to building web applications and APIs.
 
 ## The Way of Python
 Python's versatility and vast ecosystem empower me to tackle real-world challenges, from automating tasks to building functional systems and APIs.
