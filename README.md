@@ -1,5 +1,5 @@
-## A Developer's Quest
-I am a Systems Analysis and Development undergraduate at the Federal University of Cariri (UFCA) in Brazil. Leveraging Python and Flask, I approach software development with a commitment to established engineering principles. I am a strong advocate for continuous learning and its role in driving positive change in the world.
+## Software Alchemist
+I'm a Systems Analysis and Development student at UFCG (Brazil) interested about crafting user-friendly and well-engineered software solutions. Python and Flask are my tools of choice, allowing me to tackle challenges from automating tasks to building web applications and APIs.
 
 ## The Way of Python
 Python's versatility and vast ecosystem empower me to tackle real-world challenges, from automating tasks to building functional systems and APIs.
