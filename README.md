@@ -18,8 +18,4 @@ Python is my trusted tool, versatile and pragmatic. Developing software with Pyt
 
 <br>
 
-> *"Development is an alchemy; each problem, an opportunity for transmutation."*<br>
-
-<a href="https://github.com/devitruvius/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devitruvius&show_icons=true&theme=dark" />
-</a>
+> *"Software development is akin to alchemy; each problem presents an opportunity for transformation."*<br>
