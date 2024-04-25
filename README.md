@@ -1,5 +1,5 @@
 ## A Developer's Quest
-I am Gabriel Vasconcelos, a seeker on the path of creation, committed to obtaining my degree in Systems Analysis and Development at UFCA (Federal University of Cariri). Guided by the Python language, empowered by the Flask framework, and propelled by the Godot Engine, I believe we all shall embrace the journey of learning and growth.
+I am Gabriel Vasconcelos, a seeker on the path of learning, committed to obtaining my degree in Systems Analysis and Development at UFCA (Federal University of Cariri). Guided by the Python language, empowered by the Flask framework, and propelled by the Godot Engine, I believe we all shall embrace the journey of growth and knowledge.
 
 ## The Way of Python
 Python is my trusted tool, versatile and pragmatic. Developing software with Python employs a strategic approach and a knack for adaptability, from scripting mundane tasks to architecting complex systems and functional APIs. Its versatility empowers us to tackle real-world challenges with confidence and efficiency, embracing continuous mastery and allowing us to seize opportunities for growth along the way.
