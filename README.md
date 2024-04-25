@@ -3,7 +3,7 @@ I'm focused on building user-friendly and efficient software. Currently a System
 
 ## Skills
     
-<img src="https://img.shields.io/badge/Python-%230E0E0E?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-%230E0E0E?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/GODOT-%230E0E0E.svg?style=for-the-badge&logo=godot-engine" />
+<img src="https://img.shields.io/badge/Python-%230E0E0E?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-%230E0E0E?style=for-the-badge&logo=flask&logoColor=white" />
 
 ## Contact
  
