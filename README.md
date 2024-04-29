@@ -1,4 +1,4 @@
-## About Me
+## About
 Student of Systems Analysis and Development at UFCA, dedicated to crafting solutions with Python and Flask and aligned with the principles of Software Engineering.
 
 ## Skills
