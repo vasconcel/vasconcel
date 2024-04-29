@@ -1,5 +1,5 @@
-## Python Developer
-I'm focused on building user-friendly and efficient software. Currently a Systems Analysis and Development student at UFCA (Brazil), I leverage Python to automate tasks, build functional systems, and develop APIs.
+## Hello, World!
+I'm focused on crafting user-friendly and efficient software, leveraging Python to automate tasks, build functional systems, and develop APIs. As a Systems Development Analyst, I'm constantly seeking innovative solutions to real-world problems.
 
 ## Skills
     
