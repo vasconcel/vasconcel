@@ -1,5 +1,5 @@
-## Hello, World!
-I'm focused on crafting user-friendly and efficient software, leveraging Python to automate tasks, build functional systems, and develop APIs. As a Systems Development Analyst, I'm constantly seeking innovative solutions to real-world problems.
+## About Me
+Undergraduate student in Systems Analysis and Development at the Federal University of Cariri (UFCA), focused on creating solutions using Python and Flask.
 
 ## Skills
     
