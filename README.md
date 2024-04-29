@@ -1,5 +1,5 @@
 ## About Me
-Undergraduate student in Systems Analysis and Development at the Federal University of Cariri (UFCA), focused on creating solutions using Python and Flask.
+Student of Systems Analysis and Development at UFCA, dedicated to crafting solutions with Python and Flask and aligned with the principles of Software Engineering.
 
 ## Skills
     
