@@ -9,7 +9,7 @@ Student of Systems Analysis and Development at UFCA, dedicated to crafting solut
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devitruvius&layout=compact&show_icons=true&theme=dark)
 
-## Contact
+## Social Media
  
 <div> 
   <a target="_blank" href="mailto:dev.vitruvius@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230E0E0E?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
