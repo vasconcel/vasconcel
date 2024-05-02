@@ -17,5 +17,5 @@ Student of Systems Analysis and Development at UFCA, dedicated to crafting solut
 
 > *"Software development is akin to alchemy; each problem presents an opportunity for transformation."*<br>
 
-![Devitruvius's GitHub stats](https://github-readme-stats.vercel.app/api?username=devitruvius&show_icons=true&theme=dark)
+## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devitruvius&show_icons=true&theme=dark)](https://github.com/devitruvius/github-readme-stats)
