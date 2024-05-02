@@ -7,7 +7,7 @@ Student of Systems Analysis and Development at UFCA, dedicated to crafting solut
 
 ## Chart Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devitruvius&layout=compact&show_icons=true&theme=dark)](https://github.com/devitruvius/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devitruvius&layout=compact&show_icons=true&theme=dark)]
 
 ## Contact
  
