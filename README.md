@@ -5,7 +5,7 @@ Student of Systems Analysis and Development at UFCA, dedicated to crafting solut
     
 <img src="https://img.shields.io/badge/Python-%230E0E0E?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-%230E0E0E?style=for-the-badge&logo=flask&logoColor=white" />
 
-## Chart Languages
+## Skill Chart
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devitruvius&layout=compact&show_icons=true&theme=dark)
 
