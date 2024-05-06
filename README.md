@@ -7,7 +7,7 @@ Student of Systems Analysis and Development at UFCA, dedicated to crafting solut
 
 ## Skill Chart
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devitruvius&layout=compact&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devitruvius&layout=compact&show_icons=true&theme=dark&hide=HTML)
 
 ## Social Media
  
