@@ -1,5 +1,5 @@
 ## About
-Student of Systems Analysis and Development at UFCA, dedicated to crafting solutions with Python and Flask and aligned with the principles of Software Engineering.
+I'm currently enrolled in System Analysis and Development at UFCA (Brazil), aiming to become a well-rounded and innovative professional in the technology field. I believe in its transformative power and I am constantly honing my skills to build solutions that positively impact people.
 
 ## Expertise
     
