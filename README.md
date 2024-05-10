@@ -7,7 +7,7 @@ Undergraduate student in Systems Analysis and Development at UFCA, focusing on b
 
 ## Skill Chart
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devitruvius&layout=compact&show_icons=true&theme=dark&hide=HTML)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devitruvius&layout=compact&show_icons=true&theme=dark&hide=HTML,CSS)
 
 ## Social Media
  
