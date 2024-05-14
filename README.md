@@ -1,5 +1,5 @@
 ## About
-Undergraduate student in Systems Analysis and Development at UFCA, focusing on becoming a specialist in Data Analytics and driving growth and innovation with high-impact solutions. Skilled in building solutions with Python and AI tools, I am also dedicating myself to studying SQL for data manipulation and extraction from various data sources (relational databases, NoSQL, and Big Data).
+Undergraduate student in Systems Analysis and Development at UFCA, focusing on becoming a specialist in Data Science and driving growth and innovation with high-impact solutions. Skilled in building solutions with Python and AI tools, I am also dedicating myself to studying SQL for data manipulation and extraction from various data sources (relational databases, NoSQL, and Big Data).
 
 ## Expertise
     
@@ -22,4 +22,4 @@ Undergraduate student in Systems Analysis and Development at UFCA, focusing on b
 
 <br>
 
-> *"Software development is akin to alchemy; each problem presents an opportunity for transformation."*<br>
+> *"Data science is akin to alchemy; each dataset presents an opportunity for discovery and transformation."*<br>
