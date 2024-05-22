@@ -1,5 +1,5 @@
 ## About
-Undergraduate student in Systems Analysis and Development at UFCA with the goal of becoming a Data Science specialist and driving growth and innovation with high-impact solutions. In addition to my academic pursuits, I'm also a game developer with a focus on horror titles.
+Undergraduate student in Systems Analysis and Development at UFCA with the goal of becoming a Data Science specialist. In addition to my academic pursuits, I'm also a game developer with a focus on horror titles.
 
 ## Expertise
     
