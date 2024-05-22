@@ -1,5 +1,5 @@
 ## About
-Undergraduate student in Systems Analysis and Development at UFCA with the goal of becoming a Data Science specialist and driving growth and innovation with high-impact solutions. I am training to build solutions with Python and AI tools, and I am also dedicated to studying SQL for manipulating and extracting information from various data sources (relational databases and NoSQL).
+Undergraduate student in Systems Analysis and Development at UFCA with the goal of becoming a Data Science specialist and driving growth and innovation with high-impact solutions.
 
 ## Expertise
     
