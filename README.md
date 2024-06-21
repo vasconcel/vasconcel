@@ -22,4 +22,4 @@ Undergraduate student in Systems Analysis and Development at UFCA with the goal 
 
 <br>
 
-> *"Data science is akin to alchemy; each dataset presents an opportunity for discovery and transformation."*<br>
+> *"Software engineering is akin to alchemy; each project presents an opportunity for discovery and transformation."*<br>
