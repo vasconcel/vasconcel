@@ -1,5 +1,5 @@
 ## About
-Undergraduate student in Systems Analysis and Development at UFCA, I have expertise in Back-end development, focusing on creating robust and efficient APIs.
+Undergraduate student of Information Technology at UFCA, aiming to enhance my skills in Back-end development, with a focus on creating efficient RESTful APIs using Python and Flask. I seek to contribute to academic research to drive innovation in the field of software development.
 
 ## Expertise
     
