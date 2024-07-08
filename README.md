@@ -1,13 +1,26 @@
 ## About
-Undergraduate student of Information Technology at UFCA, aiming to enhance my skills in Back-end development, with a focus on creating efficient RESTful APIs using Python and Flask. I seek to contribute to academic research to drive innovation in the field of software development.
+I am an undergraduate student in Information Technology at UFCA, interested in Back-end Development and Data Science. I have experience in creating RESTful APIs using Python and Flask, as well as applying unit tests to ensure system reliability.
 
 ## Expertise
     
 <img src="https://img.shields.io/badge/Python-%230E0E0E?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-%230E0E0E?style=for-the-badge&logo=flask&logoColor=white" />
 
-## Skill Chart
+## Skills
+- **Agile Methodologies:** Experience with SCRUM.
+- **Databases:** SQLite (DDL, DML, query optimization).
+- **Networks and Distributed Systems:** Basic concepts and client/server model.
+- **Software Development:** Python (object-oriented programming, Flask, Pytest, Pylint).
+- **Systems Analysis and Modeling:** UML, design patterns, and Design Thinking.
+- **Version Control:** Git and GitHub, CI/CD with GitHub Actions.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devitruvius&layout=compact&show_icons=true&theme=dark&hide=HTML,CSS)
+## Objectives
+- Collaborate on research that generates relevant knowledge and causes a positive impact to society.
+- Explore new technologies and methodologies and continuously develop as a professional.
+- Pursue a master's degree in Data Science after graduation.
+- Work in a team to solve complex problems and create innovative solutions.
+
+## Interests
+- Enthusiast of Magic: The Gathering
 
 ## Social Media
  
