@@ -6,10 +6,10 @@ I am an undergraduate student in Information Technology at UFCA, interested in B
 <img src="https://img.shields.io/badge/Python-%230E0E0E?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-%230E0E0E?style=for-the-badge&logo=flask&logoColor=white" />
 
 ## Skills
+- **Python:** Object-oriented programming, data structures, Flask, Pytest, Pylint.
 - **Agile Methodologies:** Experience with SCRUM.
 - **Databases:** SQLite (DDL, DML, query optimization).
 - **Networks and Distributed Systems:** Basic concepts and client/server model.
-- **Software Development:** Python (object-oriented programming, Flask, Pytest, Pylint).
 - **Systems Analysis and Modeling:** UML, design patterns, and Design Thinking.
 - **Version Control:** Git and GitHub, CI/CD with GitHub Actions.
 
