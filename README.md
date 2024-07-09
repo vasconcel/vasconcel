@@ -1,23 +1,21 @@
 ## About
-I am an undergraduate student in Information Technology at UFCA, interested in Back-end Development and Data Science. I have experience in creating RESTful APIs using Python and Flask, as well as applying unit tests to ensure system reliability.
+I'm an undergraduate Information Technology student at UFCA, interested about Back-end Development and Data Science. I enjoy building efficient RESTful APIs using Python and Flask, and I'm committed to writing clean, testable code using Pytest and Pylint.
 
 ## Expertise
     
 <img src="https://img.shields.io/badge/Python-%230E0E0E?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-%230E0E0E?style=for-the-badge&logo=flask&logoColor=white" />
 
 ## Skills
-- **Python:** Object-oriented programming, data structures, Flask, Pytest, Pylint.
-- **Agile Methodologies:** Experience with SCRUM.
-- **Databases:** SQLite (DDL, DML, query optimization).
-- **Networks and Distributed Systems:** Basic concepts and client/server model.
-- **Systems Analysis and Modeling:** UML, design patterns, and Design Thinking.
-- **Version Control:** Git and GitHub, CI/CD with GitHub Actions.
+* **Programming:** Python (Object-oriented programming, data structures, Flask), Pytest, Pylint
+* **Databases:** SQLite (DDL, DML, query optimization)
+* **Methodologies:** Agile (SCRUM), Version Control (Git, GitHub, GitHub Actions)
+* **Systems:** Networks and Distributed Systems (basic concepts, client/server model), Systems Analysis and Modeling (UML, design patterns, Design Thinking)
 
 ## Objectives
-- Collaborate on research that generates relevant knowledge and causes a positive impact to society.
-- Explore new technologies and methodologies and continuously develop as a professional.
-- Pursue a master's degree in Data Science after graduation.
-- Work in a team to solve complex problems and create innovative solutions.
+* Collaborate in teams to solve complex problems and develop innovative solutions.
+* Contribute to impactful research that advances knowledge and benefits society.
+* Continuously learn and explore new technologies and methodologies in the field.
+* Pursue a Master's degree regarding Data Science after graduation.
 
 ## Interests
 - Enthusiast of Magic: The Gathering
@@ -35,4 +33,4 @@ I am an undergraduate student in Information Technology at UFCA, interested in B
 
 <br>
 
-> *"Software engineering is akin to alchemy; each project presents an opportunity for discovery and transformation."*<br>
+> *"Simplicity is the ultimate sophistication." - **Leonardo da Vinci***<br>
