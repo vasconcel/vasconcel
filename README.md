@@ -17,12 +17,6 @@ I'm an undergraduate Information Technology student at UFCA, interested about bu
 * **Data Science:** To analyze and interpret complex data to drive informed decision-making.
 * **Computer Vision:** To explore image processing and machine learning techniques to extract insights from visual data.
 
-## Goals
-* Collaborate in teams to solve complex problems and develop innovative solutions.
-* Contribute to impactful research that advances knowledge and benefits society.
-* Continuously learn and explore new technologies and methodologies in the field.
-* Pursue a Master's degree in Data Science after graduation.
-
 ## Social Media
  
 <div> 
