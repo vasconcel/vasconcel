@@ -12,10 +12,10 @@ I'm an undergraduate Information Technology student at UFCA, interested about bu
 * **Systems:** Networks and Distributed Systems (basic concepts, client/server model), Systems Analysis and Modeling (UML, design patterns, Design Thinking).
 
 ## Interests
-* **Back-end Development:** Building robust and scalable server-side applications.
-* **API RESTful:** Designing and implementing RESTful services for seamless data exchange.
-* **Data Science:** Analyzing and interpreting complex data to drive informed decision-making.
-* **Computer Vision:** Exploring image processing and machine learning techniques to extract insights from visual data.
+* **Back-end Development:** To build robust and scalable server-side applications.
+* **API RESTful:** To design and implement RESTful services for seamless data exchange.
+* **Data Science:** To analyze and interpret complex data to drive informed decision-making.
+* **Computer Vision:** To explore image processing and machine learning techniques to extract insights from visual data.
 
 ## Goals
 * Collaborate in teams to solve complex problems and develop innovative solutions.
