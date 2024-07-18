@@ -1,5 +1,5 @@
 ## About
-I'm an undergraduate Information Technology student at UFCA, interested about Back-end Development and Data Science. I enjoy building efficient RESTful APIs using Python and Flask, and I'm committed to writing clean, testable code using Pytest and Pylint.
+I'm an undergraduate Information Technology student at UFCA, interested about building efficient and scalable back-end systems and exploring the data science field. I enjoy crafting RESTful APIs using Python and Flask, always striving for clean, testable code with Pytest and Pylint.
 
 ## Expertise
     
@@ -11,14 +11,17 @@ I'm an undergraduate Information Technology student at UFCA, interested about Ba
 * **Methodologies:** Agile (SCRUM), Version Control (Git, GitHub, GitHub Actions).
 * **Systems:** Networks and Distributed Systems (basic concepts, client/server model), Systems Analysis and Modeling (UML, design patterns, Design Thinking).
 
-## Objectives
+## Interests
+* **Back-end Development:** Building robust and scalable server-side applications.
+* **API RESTful:** Designing and implementing RESTful services for seamless data exchange.
+* **Data Science:** Analyzing and interpreting complex data to drive informed decision-making.
+* **Computer Vision:** Exploring image processing and machine learning techniques to extract insights from visual data.
+
+## Goals
 * Collaborate in teams to solve complex problems and develop innovative solutions.
 * Contribute to impactful research that advances knowledge and benefits society.
 * Continuously learn and explore new technologies and methodologies in the field.
-* Pursue a Master's degree regarding Data Science after graduation.
-
-## Interests
-- Enthusiast of Magic: The Gathering
+* Pursue a Master's degree in Data Science after graduation.
 
 ## Social Media
  
