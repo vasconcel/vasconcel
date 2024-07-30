@@ -5,18 +5,6 @@ I'm an undergraduate Information Technology student at UFCA, interested about bu
     
 <img src="https://img.shields.io/badge/Python-%230E0E0E?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-%230E0E0E?style=for-the-badge&logo=flask&logoColor=white" />
 
-## Skills
-* **Programming:** Python (OOP, Data Structures), Pytest, Pylint, Flask, API REST.
-* **Databases:** SQLite (DDL, DML, query optimization).
-* **Methodologies:** Agile (SCRUM), Version Control (Git, GitHub, GitHub Actions).
-* **Systems:** Networks and Distributed Systems (basic concepts, client/server model), Systems Analysis and Modeling (UML, design patterns, Design Thinking).
-
-## Interests
-* **Back-end Development:** To build robust and scalable server-side applications.
-* **API RESTful:** To design and implement RESTful services for seamless data exchange.
-* **Data Science:** To analyze and interpret complex data to drive informed decision-making.
-* **Computer Vision:** To explore image processing and machine learning techniques to extract insights from visual data.
-
 ## Social Media
  
 <div> 
