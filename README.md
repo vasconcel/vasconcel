@@ -3,7 +3,7 @@ I'm an undergraduate Information Technology student at UFCA, interested about bu
 
 ## Expertise
     
-<img src="https://img.shields.io/badge/Python-%230E0E0E?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-%230E0E0E?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-%230E0E0E?style=for-the-badge&logo=python&logoColor=white" />
 
 ## Social Media
  
