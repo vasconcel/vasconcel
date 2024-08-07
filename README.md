@@ -1,5 +1,5 @@
 ## About
-I'm an undergraduate Information Technology student at UFCA, interested about building efficient and scalable back-end systems and exploring the data science field. I enjoy crafting RESTful APIs using Python and Flask, always striving for clean, testable code with Pytest and Pylint.
+Undergraduate Information Technology student at UFCA, interested about Data Science and AI. I enjoy building efficient RESTful APIs using Python and Flask, and I'm committed to writing clean, testable code using Pytest and Pylint.
 
 ## Expertise
     
