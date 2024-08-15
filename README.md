@@ -1,5 +1,5 @@
 ## About
-Undergraduate Information Technology student at UFCA, interested about Data Science and AI.
+Undergraduate Information Technology student at UFCA, interested about AI, Blockchain and Data Science.
 
 ## Expertise
     
