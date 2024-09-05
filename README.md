@@ -1,5 +1,5 @@
 ## About
-Undergraduate Information Technology student at UFCA, with academic interest in Blockchain.
+Undergraduate Information Technology student at Federal University of Cariri.
 
 ## Expertise
     
