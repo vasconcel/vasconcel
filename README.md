@@ -1,5 +1,5 @@
 ## About
-Undergraduate Information Technology student at Federal University of Cariri.
+Undergraduate Systems Analysis and Development student at Federal University of Cariri.
 
 ## Expertise
     
