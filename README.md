@@ -1,10 +1,6 @@
 ## About
 Undergraduate Systems Analysis and Development student at Federal University of Cariri.
 
-## Expertise
-    
-<img src="https://img.shields.io/badge/Python-%230E0E0E?style=for-the-badge&logo=python&logoColor=white" />
-
 ## Social Media
  
 <div> 
