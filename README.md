@@ -1,4 +1,4 @@
-## // Operator_Status
+## // Profile
 
 *   **ID:** Gabriel Vasconcelos Andrade da Silva
 *   **Grid:** [Universidade Federal do Cariri (UFCA)](https://ufca.edu.br/) // Analysis & Development of Systems
@@ -13,7 +13,7 @@
 *   **[Mermaid NFT DApp](https://github.com/vasconcel/mermaid-NFT):** Backend dev (`Node.js`, `Express.js`, `Hardhat`) for rights management PoS.
 *   **[ADS Course Archive](https://github.com/vasconcel/systems-analysis-development):** Documenting academic journey (WIP).
 
-## // Skillset_
+## // Skillset
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-%23000000?style=for-the-badge&logo=python&logoColor=00FF00" alt="Python"/>
@@ -37,17 +37,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasconcel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=320&text_color=00FF00&bg_color=000000&title_color=00FF00" alt="Top Languages" />
 </p>
 
-## // Connect_
+## // Connect
 
 <div>
   <a target="_blank" href="https://www.linkedin.com/in/devitruvius"><img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" target="_blank" alt="LinkedIn Connection"></a>
 </div>
 
 <br>
-<br>
 
 ---
 <p align="center">
   <i>Know Thyself.</i>
 </p>
----
