@@ -1,11 +1,11 @@
-## // Profile
+## Profile
 
 *   **ID:** Gabriel Vasconcelos Andrade da Silva
 *   **Grid:** [Universidade Federal do Cariri (UFCA)](https://ufca.edu.br/) // Analysis & Development of Systems
 *   **Focus:** Backend Architecture | API Design | Blockchain | Open Source Protocols
 *   **State:** Learning & Building_
 
-## // Core_Experience
+## Experience
 
 *   **[dataWASHES API](https://github.com/gesid/dataWASHES)** (1 yr | UFCA Extension): Backend dev & testing (`Python`, `Flask`, Unit Tests) for open academic API.
 *   **AWS Blockchain Scholarship** (6 mos | Compass UOL): Intensive training & projects in `Cryptography`, `Blockchain`, `Solidity`/`Hardhat`, `Node.js`/`Express.js`. Knowledge logs [here](https://github.com/vasconcel/crypto-submersion).
@@ -13,7 +13,7 @@
 *   **[Mermaid NFT DApp](https://github.com/vasconcel/mermaid-NFT):** Backend dev (`Node.js`, `Express.js`, `Hardhat`) for rights management PoS.
 *   **[ADS Course Archive](https://github.com/vasconcel/systems-analysis-development):** Documenting academic journey (WIP)_
 
-## // Skillset
+## Skillset
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-%23000000?style=for-the-badge&logo=python&logoColor=00FF00" alt="Python"/>
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/AWS-%23000000?style=for-the-badge&logo=amazon-aws&logoColor=00FF00" alt="AWS Basics"/>
 </p>
 
-## // System_Metrics
+## System_Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vasconcel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=00FF00&text_color=00FF00&bg_color=000000&title_color=00FF00" alt="GitHub Stats" />
@@ -37,13 +37,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasconcel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=320&text_color=00FF00&bg_color=000000&title_color=00FF00" alt="Top Languages" />
 </p>
 
-## // Connect
+## Connect
 
 <div>
   <a target="_blank" href="https://www.linkedin.com/in/devitruvius"><img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" target="_blank" alt="LinkedIn Connection"></a>
 </div>
-
-<br>
 
 ---
 <p align="center">
