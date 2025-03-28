@@ -1,7 +1,7 @@
 ## Profile
 
 *   **ID:** Gabriel Vasconcelos Andrade da Silva
-*   **Education:** Analysis & Development of Systems (Technologist Degree) @ [UFCA](https://ufca.edu.br/)
+*   **Education:** Analysis & Development of Systems @ [UFCA](https://ufca.edu.br/)
 *   **Focus:** Backend Architecture | API Design | Blockchain | Open Source Protocols
 *   **State:** Learning & Building_
 
