@@ -40,7 +40,7 @@
 ## Connect
 
 <div>
-  <a target="_blank" href="https://www.linkedin.com/in/devitruvius"><img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" target="_blank" alt="LinkedIn Connection"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/vasconcel"><img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" target="_blank" alt="LinkedIn Connection"></a>
 </div>
 
 ---
