@@ -11,7 +11,7 @@
 *   **[AWS Blockchain Scholarship](https://github.com/vasconcel/crypto-submersion)** (6 mos | Compass UOL): Intensive training & projects in `Cryptography`, `Blockchain`, `Solidity`/`Hardhat`, `Node.js`/`Express.js`.
 *   **[Aurelia Blockchain](https://github.com/vasconcel/aurelia-blockchain):** Simulated PoW blockchain (`Node.js`).
 *   **[Mermaid NFT DApp](https://github.com/vasconcel/mermaid-NFT):** Backend dev (`Node.js`, `Express.js`, `Hardhat`) for rights management PoS.
-*   **[ADS Course Archive](https://github.com/vasconcel/systems-analysis-development):** Documenting academic journey (WIP)_
+*   **[ADS Course Archive](https://github.com/vasconcel/systems-analysis-development):** Documenting academic journey_
 
 ## Skillset
 
