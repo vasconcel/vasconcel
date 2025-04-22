@@ -10,14 +10,12 @@ Actively learning and building.
 *   **[AWS Blockchain Scholarship](https://github.com/vasconcel/crypto-submersion)** (Compass UOL): Intensive training in `Cryptography`, `Blockchain`, `Solidity`/`Hardhat`, DApp development, and `Node.js` integration.
 *   **[ADS Course Archive](https://github.com/vasconcel/systems-analysis-development):** Documenting the Systems Analysis learning path.
 
-## Toolset
+## Core Skills
 
-*   **Backend:** Python, Node.js, Flask, Express.js
-*   **Blockchain:** Solidity, Hardhat, Ethers.js
-*   **Database:** MySQL
-*   **Core:** API Design, Unit Testing, Git
-*   **Cloud:** AWS Fundamentals
-*   **Scripting/Web:** JavaScript
+*   **Languages:** Python, JavaScript, Solidity
+*   **Backend & API:** Node.js, Flask, Express.js, API Design, MySQL
+*   **Blockchain:** Hardhat, Ethers.js
+*   **Tools & Practices:** Git, Unit Testing, AWS Fundamentals
 
 ## Connect
 
