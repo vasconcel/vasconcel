@@ -8,7 +8,7 @@ Actively learning and building.
 
 *   **[dataWASHES API](https://github.com/gesid/dataWASHES)** (UFCA Extension): Backend dev & testing (`Python`, `Flask`) for open academic data infrastructure.
 *   **[AWS Blockchain Scholarship](https://github.com/vasconcel/crypto-submersion)** (Compass UOL): Intensive training in `Cryptography`, `Blockchain` and `AWS CLF-C02`.
-*   **[Systems Analysis and Development Archive](https://github.com/vasconcel/systems-analysis-development):** Documenting the Systems Analysis learning path.
+*   **[Systems Analysis Archive](https://github.com/vasconcel/systems-analysis-development):** Documenting the Systems Analysis learning path.
 
 ## Core Skills
 
