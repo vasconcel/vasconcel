@@ -1,7 +1,9 @@
 ## Profile
 
 Student, Systems Analysis & Development @ [UFCA](https://ufca.edu.br/).
+<br>
 Focus: Backend Architecture, APIs, Blockchain.
+<br>
 Status: Learning and building.
 
 ## Engagements
