@@ -1,14 +1,14 @@
 ## Profile
 
-Student, Analysis & Development of Systems @ [UFCA](https://ufca.edu.br/).
+Student, Systems Analysis & Development @ [UFCA](https://ufca.edu.br/).
 Focus: Backend Architecture, APIs, Blockchain.
-Actively learning and building.
+Status: Learning and building.
 
 ## Engagements
 
 *   **[dataWASHES API](https://github.com/gesid/dataWASHES)** (UFCA Extension): Backend dev & testing (`Python`, `Flask`) for open academic data infrastructure.
 *   **[AWS Blockchain Scholarship](https://github.com/vasconcel/crypto-submersion)** (Compass UOL): Intensive training in `Cryptography`, `Blockchain` and `AWS CLF-C02`.
-*   **[Systems Analysis and Development](https://github.com/vasconcel/systems-analysis-development):** Documenting the Systems Analysis learning path.
+*   **[Systems Analysis and Development](https://github.com/vasconcel/systems-analysis-development)** (UFCA): Documenting the Systems Analysis learning path.
 
 ## Core Skills
 
