@@ -6,7 +6,7 @@ Focus: Backend Architecture, APIs, Blockchain.
 <br>
 Status: Learning and building.
 
-## Engagements
+## Experience
 
 *   **[dataWASHES API](https://github.com/gesid/dataWASHES)** (UFCA Extension): Backend dev & testing (`Python`, `Flask`) for open academic data infrastructure.
 *   **[AWS Blockchain Scholarship](https://github.com/vasconcel/crypto-submersion)** (Compass UOL): Intensive training in `Cryptography`, `Blockchain` and `AWS CLF-C02`.
