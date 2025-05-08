@@ -33,6 +33,4 @@ Status: Actively learning, building, and seeking new challenges.
 
 <div>
   <a target="_blank" href="https://www.linkedin.com/in/vasconcel"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" target="_blank" alt="LinkedIn Connection"></a>
-  <!-- Adicione outros links se desejar, ex: seu GitHub Profile link -->
-  <!-- <a target="_blank" href="https://github.com/vasconcel"><img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" target="_blank" alt="GitHub Profile"></a> -->
 </div>
