@@ -6,7 +6,7 @@ Focus: Backend Architecture, APIs, Blockchain.
 <br>
 Status: Actively learning, building, and seeking new challenges.
 
-## Experience & Key Projects
+## Projects
 
 *   **[dataWASHES API](https://github.com/gesid/dataWASHES)** (UFCA Extension Project):
     *   Role: Backend Developer & Tester.
@@ -18,9 +18,6 @@ Status: Actively learning, building, and seeking new challenges.
     *   Key Projects Developed:
         *   **[Aurelia Blockchain](https://github.com/vasconcel/aurelia-blockchain):** Simulated Proof-of-Work blockchain network (`Node.js`, `Ethers.js`).
         *   **[Mermaid NFT DApp](https://github.com/vasconcel/mermaid-NFT):** Full-stack NFT platform for music rights (`React`, `Node.js`, `Solidity`, `MySQL`).
-
-*   **[Systems Analysis and Development Learning Path](https://github.com/vasconcel/systems-analysis-development)** (UFCA):
-    *   Ongoing documentation and project showcase for the ADS degree.
 
 ## Core Skills
 
